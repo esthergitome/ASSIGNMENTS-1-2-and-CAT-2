@@ -1,0 +1,43 @@
+C:\Users\Administrator\Desktop\assingmnent 2 q3\bin\Debug\net7.0\assingmnent 2 q3.exe
+C:\Users\Administrator\Desktop\assingmnent 2 q3\bin\Debug\net7.0\assingmnent 2 q3.deps.json
+C:\Users\Administrator\Desktop\assingmnent 2 q3\bin\Debug\net7.0\assingmnent 2 q3.runtimeconfig.json
+C:\Users\Administrator\Desktop\assingmnent 2 q3\bin\Debug\net7.0\assingmnent 2 q3.dll
+C:\Users\Administrator\Desktop\assingmnent 2 q3\bin\Debug\net7.0\assingmnent 2 q3.pdb
+C:\Users\Administrator\Desktop\assingmnent 2 q3\obj\Debug\net7.0\assingmnent 2 q3.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\assingmnent 2 q3\obj\Debug\net7.0\assingmnent 2 q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\assingmnent 2 q3\obj\Debug\net7.0\assingmnent 2 q3.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\assingmnent 2 q3\obj\Debug\net7.0\assingmnent 2 q3.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\assingmnent 2 q3\obj\Debug\net7.0\assingmnent 2 q3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\assingmnent 2 q3\obj\Debug\net7.0\assingmnent 2 q3.dll
+C:\Users\Administrator\Desktop\assingmnent 2 q3\obj\Debug\net7.0\refint\assingmnent 2 q3.dll
+C:\Users\Administrator\Desktop\assingmnent 2 q3\obj\Debug\net7.0\assingmnent 2 q3.pdb
+C:\Users\Administrator\Desktop\assingmnent 2 q3\obj\Debug\net7.0\assingmnent 2 q3.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\assingmnent 2 q3\obj\Debug\net7.0\ref\assingmnent 2 q3.dll
+C:\Users\Administrator\Desktop\ass2 q3\bin\Debug\net7.0\assingmnent 2 q3.exe
+C:\Users\Administrator\Desktop\ass2 q3\bin\Debug\net7.0\assingmnent 2 q3.deps.json
+C:\Users\Administrator\Desktop\ass2 q3\bin\Debug\net7.0\assingmnent 2 q3.runtimeconfig.json
+C:\Users\Administrator\Desktop\ass2 q3\bin\Debug\net7.0\assingmnent 2 q3.dll
+C:\Users\Administrator\Desktop\ass2 q3\bin\Debug\net7.0\assingmnent 2 q3.pdb
+C:\Users\Administrator\Desktop\ass2 q3\obj\Debug\net7.0\assingmnent 2 q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ass2 q3\obj\Debug\net7.0\assingmnent 2 q3.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ass2 q3\obj\Debug\net7.0\assingmnent 2 q3.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ass2 q3\obj\Debug\net7.0\assingmnent 2 q3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ass2 q3\obj\Debug\net7.0\assingmnent 2 q3.dll
+C:\Users\Administrator\Desktop\ass2 q3\obj\Debug\net7.0\refint\assingmnent 2 q3.dll
+C:\Users\Administrator\Desktop\ass2 q3\obj\Debug\net7.0\assingmnent 2 q3.pdb
+C:\Users\Administrator\Desktop\ass2 q3\obj\Debug\net7.0\assingmnent 2 q3.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\ass2 q3\obj\Debug\net7.0\ref\assingmnent 2 q3.dll
+C:\Users\Administrator\Desktop\advanced application programming\ass2 q3\bin\Debug\net7.0\assingmnent 2 q3.exe
+C:\Users\Administrator\Desktop\advanced application programming\ass2 q3\bin\Debug\net7.0\assingmnent 2 q3.deps.json
+C:\Users\Administrator\Desktop\advanced application programming\ass2 q3\bin\Debug\net7.0\assingmnent 2 q3.runtimeconfig.json
+C:\Users\Administrator\Desktop\advanced application programming\ass2 q3\bin\Debug\net7.0\assingmnent 2 q3.dll
+C:\Users\Administrator\Desktop\advanced application programming\ass2 q3\bin\Debug\net7.0\assingmnent 2 q3.pdb
+C:\Users\Administrator\Desktop\advanced application programming\ass2 q3\obj\Debug\net7.0\assingmnent 2 q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\advanced application programming\ass2 q3\obj\Debug\net7.0\assingmnent 2 q3.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\advanced application programming\ass2 q3\obj\Debug\net7.0\assingmnent 2 q3.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\advanced application programming\ass2 q3\obj\Debug\net7.0\assingmnent 2 q3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\advanced application programming\ass2 q3\obj\Debug\net7.0\assingmnent 2 q3.dll
+C:\Users\Administrator\Desktop\advanced application programming\ass2 q3\obj\Debug\net7.0\refint\assingmnent 2 q3.dll
+C:\Users\Administrator\Desktop\advanced application programming\ass2 q3\obj\Debug\net7.0\assingmnent 2 q3.pdb
+C:\Users\Administrator\Desktop\advanced application programming\ass2 q3\obj\Debug\net7.0\assingmnent 2 q3.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\advanced application programming\ass2 q3\obj\Debug\net7.0\ref\assingmnent 2 q3.dll
